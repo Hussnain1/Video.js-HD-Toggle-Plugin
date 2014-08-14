@@ -14,12 +14,11 @@ Video JS (version 4.6.4) HD Toggle Plugin
 	a. By getting sources from video tag.
 		HD = "HDsrc" nonHD = "noHDsrc"
 
-		Example: http://jsbin.com/casil/1/edit
+		Example: http://jsfiddle.net/Hussnain1/unrjrqee/
 
 	b. By providing arguments to function called in a script tag.(By JavaScript)
-	   	HDtoggle('noHDsrc','HDsrc');
-	   	
-		Example: http://jsbin.com/fowup/4/edit
+	   
+		Example: http://jsfiddle.net/Hussnain1/ctLmx4fz/1/
 2. Very easy to change the design of HD button because of its small and easy css.
 
 
