@@ -1,4 +1,4 @@
-Video JS (version 4.6.4) HD Toggle Plugin 
+Video JS HD Toggle Plugin 
 *************************
 
 ***How it works:***
