@@ -3,7 +3,7 @@ Video JS HD Toggle Plugin
 
 ***How it works:***
 
-1. It provides the way to toggle between HD and no HD source with a click of one HD button. 
+1. It provides the way to toggle between HD and non HD source with a click of one HD button. 
 2. It is very simple and easy to use.
 3. By clicking on HD button, Video JS player changes the source from HD to non HD source and vice versa. 
 
