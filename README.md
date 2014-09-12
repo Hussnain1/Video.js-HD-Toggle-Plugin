@@ -1,6 +1,9 @@
 Video JS HD Toggle Plugin 
 *************************
 
+Demo: http://radiations3.com/videojs_hd_plugin/
+***********************************************
+
 ***How it works:***
 
 1. It provides the way to toggle between HD and non HD source with a click of one HD button. 
